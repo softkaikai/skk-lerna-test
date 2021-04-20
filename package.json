@@ -1,0 +1,13 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "serve": "lerna run --scope=skk-react-web start",
+    "build:ui": "lerna run --scope=skk-react-ui build",
+    "test:ui": "lerna run --scope=skk-react-ui test"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
