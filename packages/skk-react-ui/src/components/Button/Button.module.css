@@ -1,0 +1,9 @@
+.base {
+    min-width: 50px;
+    padding: 0 10px;
+    height: 30px;
+    line-height: 28px;
+    border: 1px;
+    border-radius: 4px;
+    text-align: center;
+}
