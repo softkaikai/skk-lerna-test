@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../element-plus-dev" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Users\ac\Desktop\skk-source-code\skk-lerna-test\node_modules\typescript\lib" />
@@ -50,7 +50,8 @@
       <option name="presentableId" value="Default" />
       <updated>1618905516904</updated>
       <workItem from="1618905518324" duration="9678000" />
-      <workItem from="1618991485839" duration="6741000" />
+      <workItem from="1618991485839" duration="7175000" />
+      <workItem from="1619081743927" duration="638000" />
     </task>
     <servers />
   </component>

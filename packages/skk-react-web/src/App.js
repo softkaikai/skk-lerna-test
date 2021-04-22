@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Main from './views/Main'
-import {Button} from "skk-react-ui";
+import {Button, Tab} from "skk-react-ui";
 
 function App() {
     return (
@@ -20,6 +20,7 @@ function App() {
                     Learn React is kaikai
                 </a>
                 <Button>test</Button>
+                <Tab />
                 <Main />
             </header>
         </div>
