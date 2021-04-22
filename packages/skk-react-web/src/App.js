@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Main from './views/Main'
 import {Button, Tab} from "skk-react-ui";
+import "skk-react-ui/lib/esm/index.css"
 
 function App() {
     return (
